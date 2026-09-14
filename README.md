@@ -4,7 +4,7 @@ A growing collection of practical, hands-on notes on cybersecurity and networkin
 
 ## About
 
-I'm Ashish Gahukar (Cipher), an IT Infrastructure & Security graduate (PGCP-ITISS, Sunbeam C-DAC ACTS) based in Pune, India, with a B.Tech in Computer Science & Engineering. This repo is where I document what I learn as I work through security tools one at a time — not just command syntax, but *where* to find each feature and *why* it matters during real analysis.
+I'm Ashish Gahukar, an IT Infrastructure & Security graduate (PGCP-ITISS, Sunbeam C-DAC ACTS) based in Pune, India, with a B.Tech in Computer Science & Engineering. This repo is where I document what I learn as I work through security tools one at a time — not just command syntax, but *where* to find each feature and *why* it matters during real analysis.
 
 Each note is written to be a fast, practical reference: the kind of thing I'd want open in a second tab during a live investigation or a technical interview.
 
@@ -29,6 +29,10 @@ Each tool gets its own notes file, generally covering:
 |---|---|---|
 | Wireshark | Packet/Traffic Analysis | [wireshark_basics_notes.md](./wireshark_basics_notes.md) |
 | Tcpdump | Packet/Traffic Analysis | [tcpdump_basics_notes.md](./tcpdump_basics_notes.md) |
+| Nmap | Network Scanning | [nmap_basics_notes.md](./nmap_basics_notes.md) |
+| John the Ripper | Password Cracking | [john_the_ripper_notes.md](./john_the_ripper_notes.md) |
+| Web Application Basics | Web App Security | [web_application_basics_notes.md](./web_application_basics_notes.md) |
+
 
 *(This table will grow as more tools are added — Nmap, Suricata, pfSense, Metasploit, Burp Suite, and others are planned.)*
 
